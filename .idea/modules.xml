@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dangdang-dao/dangdang-dao.iml" filepath="$PROJECT_DIR$/dangdang-dao/dangdang-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dangdang-webs/dangdang-webs.iml" filepath="$PROJECT_DIR$/dangdang-webs/dangdang-webs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dangdangdangwangchongzuo.iml" filepath="$PROJECT_DIR$/dangdangdangwangchongzuo.iml" />
+    </modules>
+  </component>
+</project>
